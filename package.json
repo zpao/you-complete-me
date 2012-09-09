@@ -1,0 +1,14 @@
+{
+  "name": "you-complete-me",
+  "description": "complete your rdio albums maybe",
+  "version": "0.1.0",
+  "author": "Paul O’Shannessy <paul@oshannessy.com>",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/zpao/you-complete-me.git"
+  },
+  "dependencies": {
+    "rdio": "1.x",
+    "cli-prompt": "0.1.x"
+  }
+}

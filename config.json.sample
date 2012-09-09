@@ -1,0 +1,15 @@
+{
+  "rdio": {
+    "api_key": null,
+    "api_shared": null
+  },
+  "oauth": {
+  },
+  "app": {
+    "album_chunk_size": 100,
+    "album_limit": 0,
+    "autocomplete_threshold": 0.5,
+    "complete_albums": true,
+    "show_unstreamable": true
+  }
+}
